@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Semarang Disaster Alert</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_show_disaster">ShowDisasterActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+
+    <string name="content_authority">com.vhiefa.disasteralert</string>
+    <string name="sync_account_type">vhiefa.com</string>
+
+    <string-array name="spinner_kategori">
+        <item>-choose category-</item>
+        <item>Kebakaran</item>
+        <item>Bencana Alam</item>
+        <item>Kecelakaan</item>
+        <item>Konflik Sosial</item>
+        <item>Kerusakan Infrastruktur</item>
+        <item>Lainnya</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

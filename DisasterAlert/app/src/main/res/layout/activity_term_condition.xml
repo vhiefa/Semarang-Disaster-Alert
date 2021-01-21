@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:gravity="center"
+        android:layout_marginTop="20dip"
+        android:text="Laporan dan profil pribadi yang dimasukan harus nyata dan bukan kebohongan\n\n
+Semua field pada laporan yang diisi harus benar dan tidak dibuat-buat\n\n
+Apabila diketahui melakukan pemalsuan maka Anda bersedia untuk ditindak lebih lanjut dan bertanggungjawab atas semua risiko yang timbul karenanya" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="40dip"
+        android:text="Semarang Disaster Alert @ 2017" />
+
+</LinearLayout>
